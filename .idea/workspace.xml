@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d35990ce-8745-4aa8-86cc-384eca59f8ec" name="Default Changelist" comment="" />
+    <list default="true" id="d35990ce-8745-4aa8-86cc-384eca59f8ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Features.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomeText.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +21,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
@@ -44,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598449973809</updated>
       <workItem from="1598449974991" duration="2139000" />
+      <workItem from="1598452144357" duration="783000" />
     </task>
     <servers />
   </component>
@@ -55,6 +67,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="5" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1598452115807" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598452453978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598452453978" />
+    <state x="484" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598452423559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598452423559" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1598450282164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
