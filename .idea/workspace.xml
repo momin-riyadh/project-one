@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d35990ce-8745-4aa8-86cc-384eca59f8ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Features.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <workItem from="1598449974991" duration="2139000" />
       <workItem from="1598452144357" duration="2424000" />
       <workItem from="1598454773557" duration="200000" />
-      <workItem from="1598493430008" duration="3469000" />
+      <workItem from="1598493430008" duration="4368000" />
     </task>
     <servers />
   </component>
@@ -78,22 +76,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598452453978" />
-    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1598496026939">
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1598498739422">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598496026939" />
-    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1598496026939">
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598498739422" />
+    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1598498739422">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598496026939" />
-    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1598496026939">
+    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598498739422" />
+    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1598498739422">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598496026939" />
-    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1598496026939">
+    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598498739422" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1598498739422">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598496026939" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598498739422" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1598454939943">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -102,10 +100,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598452423559" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1598496018493">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1598498739206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598496018493" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598498739206" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598454290317">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -53,7 +53,7 @@ export default class Features extends React.Component {
 
                 <div className="row py-5">
                     <div className="col-12 text-center">
-                        <p class="h1">lorem ipsum</p>
+                        <p className="h1">lorem ipsum</p>
                         <button className="btn btn-lg btn-success">Contact Us</button>
                     </div>
                 </div>
