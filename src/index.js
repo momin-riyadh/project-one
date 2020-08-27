@@ -6,12 +6,14 @@ import Header from './components/Header';
 import HomeText from './components/HomeText';
 import * as serviceWorker from './serviceWorker';
 import Features from "./components/Features";
+import Footer from "./components/Footer";
 
 ReactDOM.render(
     <React.StrictMode>
         <Header/>
         <HomeText/>
         <Features/>
+        <Footer/>
     </React.StrictMode>,
     document.getElementById('root')
 );

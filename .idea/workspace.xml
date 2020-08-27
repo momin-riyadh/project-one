@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d35990ce-8745-4aa8-86cc-384eca59f8ec" name="Default Changelist" comment="" />
+    <list default="true" id="d35990ce-8745-4aa8-86cc-384eca59f8ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +41,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git commit -am &quot;fix and deploy&quot;" />
+      <command value="git push" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,7 +60,9 @@
       <option name="presentableId" value="Default" />
       <updated>1598449973809</updated>
       <workItem from="1598449974991" duration="2139000" />
-      <workItem from="1598452144357" duration="1065000" />
+      <workItem from="1598452144357" duration="2424000" />
+      <workItem from="1598454773557" duration="200000" />
+      <workItem from="1598493430008" duration="1982000" />
     </task>
     <servers />
   </component>
@@ -55,41 +70,45 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="5" key="#Plugins" timestamp="1598452115807">
+    <state x="275" y="5" key="#Plugins" timestamp="1598454376476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="5" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1598452115807" />
+    <state x="275" y="5" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1598454376476" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598452453978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598452453978" />
-    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1598453260607">
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom" timestamp="1598454741966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598453260607" />
-    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1598453260606">
+    <state width="1345" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598454741966" />
+    <state width="1345" height="172" key="GridCell.Tab.0.center" timestamp="1598454741966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598453260606" />
-    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1598453260605">
+    <state width="1345" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598454741966" />
+    <state width="1345" height="172" key="GridCell.Tab.0.left" timestamp="1598454741966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598453260605" />
-    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1598453260607">
+    <state width="1345" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598454741966" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right" timestamp="1598454741966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598453260607" />
+    <state width="1345" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598454741966" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1598454939943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598454939943" />
     <state x="484" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598452423559">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598452423559" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1598453240228">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1598453505753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598453240228" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598452043696">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598453505753" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598454290317">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598452043696" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598454290317" />
   </component>
 </project>
